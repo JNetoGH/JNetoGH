@@ -1,5 +1,5 @@
 - Hi, I’m João Mendes
-- I'm like games and apps development
+- I like games and apps development
 - My email is joaomendes15@gmail.com
 
 
