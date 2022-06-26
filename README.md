@@ -1,4 +1,4 @@
-- Hi, I’m JNeto
+- Hi, I’m João Neto
 - I like games and apps development
 - My email is joaomendes15@gmail.com
 
