@@ -24,7 +24,7 @@ Hi! I’m João Neto, I’m a game developer
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   ㅤㅤㅤ
-  <a href="[https://www.linkedin.com/in/leonardo-lage-b2547a20b/](https://www.linkedin.com/in/joao-neto-a0bab020a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/joao-neto-a0bab020a/" target="_blank">
     <img style="margin-left:1000px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
