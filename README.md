@@ -10,8 +10,7 @@
     <!---
   Spaces are hete
   --->
-  ㅤㅤㅤ
-  <img align="center" height="110em" src="https://github.com/JNetoGH/JNetoGH/assets/24737993/10907000-e49a-4c88-9645-3e1396a9a413"/>
+  ㅤㅤ
 </div>
 <br>
 
