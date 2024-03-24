@@ -6,11 +6,10 @@
 
 <br>
 <div align="center">
-  <img align="center" height="110em" src="https://github.com/JNetoGH/JNetoGH/assets/24737993/54b6fe01-ec01-42e8-b32a-9e4587011d80"/>
-    <!---
-  Spaces are hete
-  --->
-  ㅤㅤ
+  
+
+  ![200](https://github.com/JNetoGH/JNetoGH/assets/24737993/93057b24-c89b-4e85-953a-e7cf285bc0f4)
+
 </div>
 <br>
 
