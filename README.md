@@ -2,7 +2,6 @@
   <h3>Hi! I’m João Neto, I’m a game developer.</h3>
 </div>
 
-##
 
 <br>
 <div align="center">
