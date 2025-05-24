@@ -2,18 +2,12 @@
   <h3>Hi! I’m João Neto, I’m a game developer.</h3>
 </div>
 
-
-<br>
-<div align="center">
-  
-
-
-</div>
 <br>
 
 ##
 
 <br>
+
 <div align="center" style="display: inline_block">
   <img align="center" alt="C-Sharp-Icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="C-Plus-Plus-Icon" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -24,6 +18,7 @@
 ##
 
 <br>
+
 <div align="center">
   <a href="mailto:joaomendes15@gmail.com" style="margin-right: 1000px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
