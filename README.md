@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hi! I’m João Neto, I’m a game developer.</h3>
+  <h3>Hi! I’m João Neto, I’m a developer.</h3>
 </div>
 
 <br>
