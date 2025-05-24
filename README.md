@@ -8,7 +8,6 @@
 <div align="center">
   
 
-  ![200](https://github.com/JNetoGH/JNetoGH/assets/24737993/93057b24-c89b-4e85-953a-e7cf285bc0f4)
 
 </div>
 <br>
